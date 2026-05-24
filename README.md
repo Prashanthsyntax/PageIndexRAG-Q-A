@@ -2,6 +2,7 @@
 
 > **Chat with your PDF documents using 100% free, open-source tools.**  
 > Upload a PDF → get it indexed → ask questions → receive page-cited answers in real time.
+![alt text](Dashboard.png)
 
 ---
 
